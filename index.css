@@ -15,3 +15,16 @@ p{
     text-decoration: solid;
     line-height: 2rem;
 }
+#My-image{
+    margin: 10px auto;
+    width: 800px;
+    height: auto;
+    text-align: center;
+
+}
+img{
+    width: 300px;
+    height: 300px;
+    border: 2px solid black;
+    border-radius: 8%;
+}
